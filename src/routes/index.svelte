@@ -10,7 +10,7 @@
 </svelte:head>
 
 <section>
-	<h1>Help Train & Test the Mental Health Bot</h1>
+	<h1>Help Train & Test The Mental Health Bot</h1>
 	<a href="/try" class="button7" style="background-color:#a24dcc">
 		<span
 			style="font-size:3em; border-right:1px solid rgba(255,255,255,0.5); padding-right:0.3em; margin-right:0.3em; vertical-align:middle"
