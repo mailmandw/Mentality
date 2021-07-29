@@ -22,7 +22,7 @@
 		const res = await fetch(
 			dev
 				? 'http://localhost:3000/api/intents/save'
-				: 'https://mentality.vercel.app/api/intents/save',
+				: 'https://mentality-pi.vercel.app/api/intents/save',
 			{
 				method: 'POST',
 				headers: {

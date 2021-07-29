@@ -13,7 +13,7 @@
 
 		// ask the api for a response
 		const res = await fetch(
-			dev ? 'http://localhost:3000/api' : 'https://mentality.vercel.app/api',
+			dev ? 'http://localhost:3000/api' : 'https://mentality-pi.vercel.app/api',
 			{
 				method: 'POST',
 				headers: {
